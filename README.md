@@ -405,7 +405,7 @@ The actor provides three specialized dataset views for different use cases:
 ### Social Media
 
 - 💼 **LinkedIn**: [flowextract-api](https://www.linkedin.com/in/flowextract-api/)
-- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/@FlowExtractAPI)
+- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/FlowExtractAPI)
 - 📱 **Facebook**: [flowextractapi](https://www.facebook.com/flowextractapi)
 
 ### **Related Actors**
